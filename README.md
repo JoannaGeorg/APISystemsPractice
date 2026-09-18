@@ -14,8 +14,8 @@ To Do:
 ## Task 2: Moderation, Prompt Chaining, and Output Checking
 
 To Do:
-- [ ] Implement a moderation workflow
-- [ ] Create a multi-step prompt chain
-- [ ] Pass the output of one step into another
-- [ ] Validate generated responses
-- [ ] Handle incorrect or unexpected outputs
+- [x] Implement a moderation workflow
+- [x] Create a multi-step prompt chain
+- [x] Pass the output of one step into another
+- [x] Validate generated responses
+- [x] Handle incorrect or unexpected outputs
