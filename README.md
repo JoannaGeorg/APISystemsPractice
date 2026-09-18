@@ -5,8 +5,17 @@ This repository is to learn and practice the using AI API to build systems.
 ## Task 1: Building Systems with the ChatGPT API – Fundamentals
 
 To Do:
-- [ ] Work with system and user messages
-- [ ] Build a classification workflow
-- [ ] Understand token usage
-- [ ] Design structured LLM inputs and outputs
-- [ ] Compare different prompts for the same task
+- [x] Work with system and user messages
+- [x] Build a classification workflow
+- [x] Understand token usage
+- [x] Design structured LLM inputs and outputs
+- [x] Compare different prompts for the same task
+
+## Task 2: Moderation, Prompt Chaining, and Output Checking
+
+To Do:
+- [x] Implement a moderation workflow
+- [x] Create a multi-step prompt chain
+- [x] Pass the output of one step into another
+- [x] Validate generated responses
+- [x] Handle incorrect or unexpected outputs
