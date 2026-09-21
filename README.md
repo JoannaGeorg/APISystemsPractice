@@ -19,3 +19,9 @@ To Do:
 - [x] Pass the output of one step into another
 - [x] Validate generated responses
 - [x] Handle incorrect or unexpected outputs
+
+## Task 3: LLM Evaluation
+
+To Do:
+- [ ] Create test cases for LLM outputs
+- [ ] Compare expected and generated results
