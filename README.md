@@ -23,5 +23,5 @@ To Do:
 ## Task 3: LLM Evaluation
 
 To Do:
-- [ ] Create test cases for LLM outputs
-- [ ] Compare expected and generated results
+- [x] Create test cases for LLM outputs
+- [x] Compare expected and generated results
